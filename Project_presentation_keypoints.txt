@@ -1,0 +1,17 @@
+Project Explain Phases
+--------------------------------------------------------------
+
+
+1.Introduction to about Project (non-technical)
+2.Modules in your Project
+3. Technology related things
+
+
+
+
+Project Implimentation
+----------------------------------------------
+
+1. Admin Module
+2.Customer Module
+3.Shopping Cart Module
